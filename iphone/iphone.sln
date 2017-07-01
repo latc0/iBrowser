@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iphone", "iphone\iphone.csproj", "{F2FD9D13-90B8-45DC-AC2F-BB54F0A4654E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FD9D13-90B8-45DC-AC2F-BB54F0A4654E}.Debug|x64.ActiveCfg = Debug|x64
+		{F2FD9D13-90B8-45DC-AC2F-BB54F0A4654E}.Debug|x64.Build.0 = Debug|x64
+		{F2FD9D13-90B8-45DC-AC2F-BB54F0A4654E}.Release|x64.ActiveCfg = Debug|x64
+		{F2FD9D13-90B8-45DC-AC2F-BB54F0A4654E}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
